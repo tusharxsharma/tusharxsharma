@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|**  
-🎥 [steam][steam] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
