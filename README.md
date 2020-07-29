@@ -4,7 +4,7 @@
 
 
 
-Here are some ideas to get you started:
+Let's get started : 
 
 - 🔭 I’m currently working on ... AI Chatbot
 - 🌱 I’m currently learning ... Python 
