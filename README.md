@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi, I'm Tushar 👋
 
-<!--
-**tusharxsharma/tusharxsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer , Gamer and a Mover !
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... AI Chatbot
+- 🌱 I’m currently learning ... Python 
+- 👯 I’m looking to collaborate on ... Projects based on Machine Learning
+- 🤔 I’m looking for help with ... Anything related to Debugging
+- 💬 Ask me about ...C++ 
+- 📫 How to reach me: ...tusharsharmavj@gmail.com 
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I very serious during studying. xD 
 -->
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|**  
+🎥 [steam][steam] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[website]: https://tusharxsharma.github.io
+[twitter]: https://twitter.com/tusharxsharma
+[twitch]: https://steamcommunity.com/id/TusharSharma
+[instagram]: https://instagram.com/jaggerxr
+[linkedin]: https://linkedin.com/in/tusharsharmavj
