@@ -1,3 +1,4 @@
+![Cover Image](https://github.com/tusharxsharma/tusharxsharma/raw/master/images/cover.gif)
 ### Hi, I'm Tushar 👋
 
 ## I'm a Developer , Gamer and a Mover !
