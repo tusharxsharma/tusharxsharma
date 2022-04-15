@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/tusharxsharma/tusharxsharma/raw/master/images/cover.png)
+![Cover Image](https://github.com/tusharxsharma/tusharxsharma/raw/master/images/UNTITLED.png)
 ### Hi, I'm Tushar 👋
 
 ## I'm a Developer , Gamer and a Mover !
