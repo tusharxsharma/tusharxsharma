@@ -9,7 +9,7 @@
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [website]: https://tusharxsharma.github.io
-[twitter]: https://twitter.com/tusharxsharma
-[twitch]: https://steamcommunity.com/id/TusharSharma
+[twitter]: [https://twitter.com/tusharxsharma](https://x.com/Jaggerrrrrrrx)
+[steam]: [https://steamcommunity.com/id/TusharSharma](https://steamcommunity.com/id/Jaggerrrrrrrr)
 [instagram]: https://instagram.com/tuzharr
 [linkedin]: https://linkedin.com/in/tusharsharmavj
